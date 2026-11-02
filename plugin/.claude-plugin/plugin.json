@@ -1,0 +1,11 @@
+{
+  "name": "anchor-angels",
+  "version": "1.0.0",
+  "description": "Connects Claude to your Anchor Angels account: the deals open to you, their decks and data rooms, investor deep dives, events, and your own commitments. You sign in with your Anchor Angels account in the browser; nothing to copy.",
+  "author": {
+    "name": "Anchor Angels"
+  },
+  "homepage": "https://www.anchorangels.com/mcp",
+  "repository": "https://github.com/SkafldStudio-Apps/anchor-angels-mcp",
+  "license": "MIT"
+}

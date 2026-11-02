@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "anchor-angels": {
+      "type": "http",
+      "url": "https://www.anchorangels.com/api/mcp"
+    }
+  }
+}

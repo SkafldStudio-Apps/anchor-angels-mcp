@@ -1,0 +1,20 @@
+{
+  "name": "anchor-angels-mcp",
+  "owner": {
+    "name": "Anchor Angels"
+  },
+  "metadata": {
+    "description": "Anchor Angels in Claude: the deals open to you, their decks and data rooms, investor deep dives, events, and your own commitments, through your Anchor Angels account.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "anchor-angels",
+      "displayName": "Anchor Angels",
+      "source": "./plugin",
+      "description": "Connects Claude to your Anchor Angels account. You sign in in your browser; Claude then sees only what your account sees in the app.",
+      "category": "productivity",
+      "tags": ["angel investing", "venture capital", "startups", "investors"]
+    }
+  ]
+}
